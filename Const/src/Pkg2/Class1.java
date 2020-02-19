@@ -3,5 +3,7 @@ public abstract class Class1
 {
 	public abstract void Arithmetic();
 	
+	
+	
 
 }
